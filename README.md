@@ -1,4 +1,4 @@
-markdown
+
 # 📈 Stock Price Predictor
 
 ## 📌 Overview
@@ -54,3 +54,4 @@ stock-price-predictor/
 🤝 Contribution
 Contributions are welcome!
 Feel free to fork this repo, open issues, or submit pull requests.
+
